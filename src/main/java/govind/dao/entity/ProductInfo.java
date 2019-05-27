@@ -20,5 +20,9 @@ public class ProductInfo{
 	private String color;
 	private String size;
 	private int shopId;
+	private int cityId;
+	private String cityName;
+	private int brandId;
+	private String brandName;
 	private String modifiedTime;
 }
